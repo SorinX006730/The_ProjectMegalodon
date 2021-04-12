@@ -4,4 +4,4 @@
   <br> 
   <h3> This repository  will contain a list of 30 projects, made in time</h3>
   
-  <p> Project Link : <a href="https://github.com/karan/Projects">Projects List</a> </p
+  <em> <b> <p> Project Link : <a href="https://github.com/karan/Projects">Projects List</a> </p> </b> </em>
